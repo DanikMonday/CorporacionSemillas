@@ -8,7 +8,7 @@ import { FaUserPlus} from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 
-let url = "https://corporacionbackend.vercel.app/";
+let url = "https://corporacionbackend.vercel.app";
 
 function TableData() {
   const [listForms, setListForms] = useState([]);
