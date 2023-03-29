@@ -2,7 +2,7 @@ import axios from 'axios';
 import {React , useState} from 'react';
 import { Header } from './Header';
 
-const url = "http://localhost:3030"
+const url = "https://corporacionbackend.vercel.app/"
 
 export const PassRecover = () => {
 

@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { BsFillPersonFill } from "react-icons/bs";
 import { Link } from "react-router-dom";
 
-let url = "http://localhost:3030";
+let url = "https://corporacionbackend.vercel.app/";
 
 export const Form = () => {
     /*const [type, setType] = useState('');*/
